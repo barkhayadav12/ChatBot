@@ -5,7 +5,7 @@ from googletrans import Translator
 app = Flask(__name__)
 
 # Configure Gemini API Key
-genai.configure(api_key="AIzaSyC2O_6dq5gGuKWAeb6u-2IL1lsq3FCblNY")
+genai.configure(api_key="your_gemini_api_key") 
 
 # Initialize Google Gemini Model
 model = genai.GenerativeModel('gemini-1.5-pro')
