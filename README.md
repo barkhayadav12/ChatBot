@@ -7,3 +7,11 @@ AgroAssist is a smart AI chatbot built specifically for farmers and agriculture 
 
 The chatbot supports multiple languages, allowing farmers to ask questions in their native language and get responses in the same language. 🌎
 
+# Installation and setup
+
+```js
+1. pip install -r requirements.txt
+2. python app.py
+
+The application will now start at : http://localhost:5000
+```
