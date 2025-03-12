@@ -7,7 +7,7 @@ body {
 
 .chat-container {
     width: 500px;
-    height: 550px; /* ✅ Fixed the height */
+    height: 550px; /*  Fixed the height */
     margin: 50px auto;
     background-color: #fff;
     border-radius: 12px;
