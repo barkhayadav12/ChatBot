@@ -15,3 +15,7 @@ The chatbot supports multiple languages, allowing farmers to ask questions in th
 
 The application will now start at : http://localhost:5000
 ```
+# Technologies used
+```js
+Flask, Google Gemini Ai(gemini-1.5-pro), google translator(googletrans), html, css, javascript 
+```
